@@ -1,0 +1,11 @@
+/Users/animeshmalhotra/Documents/Learning/POC/Docker/bin/Debug/netcoreapp3.1/Docker
+/Users/animeshmalhotra/Documents/Learning/POC/Docker/bin/Debug/netcoreapp3.1/Docker.deps.json
+/Users/animeshmalhotra/Documents/Learning/POC/Docker/bin/Debug/netcoreapp3.1/Docker.runtimeconfig.json
+/Users/animeshmalhotra/Documents/Learning/POC/Docker/bin/Debug/netcoreapp3.1/Docker.runtimeconfig.dev.json
+/Users/animeshmalhotra/Documents/Learning/POC/Docker/bin/Debug/netcoreapp3.1/Docker.dll
+/Users/animeshmalhotra/Documents/Learning/POC/Docker/bin/Debug/netcoreapp3.1/Docker.pdb
+/Users/animeshmalhotra/Documents/Learning/POC/Docker/obj/Debug/netcoreapp3.1/Docker.csprojAssemblyReference.cache
+/Users/animeshmalhotra/Documents/Learning/POC/Docker/obj/Debug/netcoreapp3.1/Docker.AssemblyInfoInputs.cache
+/Users/animeshmalhotra/Documents/Learning/POC/Docker/obj/Debug/netcoreapp3.1/Docker.AssemblyInfo.cs
+/Users/animeshmalhotra/Documents/Learning/POC/Docker/obj/Debug/netcoreapp3.1/Docker.dll
+/Users/animeshmalhotra/Documents/Learning/POC/Docker/obj/Debug/netcoreapp3.1/Docker.pdb
